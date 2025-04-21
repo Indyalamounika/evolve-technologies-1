@@ -5,7 +5,7 @@ pipeline {
         IMAGE_NAME = 'evolve-technologies-web'
         REGISTRY = 'umamahesh571'
         DOCKER_IMAGE = "${REGISTRY}/${IMAGE_NAME}"
-        REPO_URL = 'https://github.com/EvolveTechno/evolve-technologies-1'
+        REPO_URL = 'https://github.com/Indyalamounika/evolve-technologies-1.git'
         BRANCH = 'main'
     }
 
